@@ -1,7 +1,7 @@
 #!/bin/bash
 
 dir="$(dirname $0)"
-main="$dir/../main.py"
+main="$dir/main.py"
 
 function run_test {
     rm -rf output
