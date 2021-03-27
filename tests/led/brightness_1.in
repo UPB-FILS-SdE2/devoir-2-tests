@@ -1,0 +1,5 @@
+led brightness set 2 0 0
+led brightness 0 0
+led on 0 0
+led brightness 0 0
+quit

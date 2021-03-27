@@ -1,0 +1,4 @@
+led on 5 6
+led on 0 0
+led brightness set 100 0 0
+exit

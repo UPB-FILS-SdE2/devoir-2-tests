@@ -1,0 +1,21 @@
+cmd: Set pixel 3 2 to 9
+Sleep for 500 ms
+Set pixel 3 2 to 0
+Sleep for 500 ms
+Set pixel 3 2 to 9
+Sleep for 500 ms
+Set pixel 3 2 to 0
+Sleep for 500 ms
+Set pixel 3 2 to 9
+Sleep for 500 ms
+Set pixel 3 2 to 0
+Sleep for 500 ms
+Set pixel 3 2 to 9
+Sleep for 500 ms
+Set pixel 3 2 to 0
+Sleep for 500 ms
+Set pixel 3 2 to 9
+Sleep for 500 ms
+Set pixel 3 2 to 0
+Sleep for 500 ms
+cmd: 
