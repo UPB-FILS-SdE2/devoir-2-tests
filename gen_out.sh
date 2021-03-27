@@ -1,0 +1,1 @@
+for f in $1/*.in; do python3 main.py < $f > $1/$(basename $f .in).out; done
