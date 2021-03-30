@@ -1,7 +1,7 @@
 cmd: Set pixel 0 0 to 9
 cmd: 9
-cmd: Set pixel 0 0 to 9
-cmd: 9
+cmd: Set pixel 0 0 to 0
+cmd: 0
 cmd: Set pixel 1 2 to 4
 cmd: 0
 cmd: 4
