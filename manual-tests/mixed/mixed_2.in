@@ -1,0 +1,8 @@
+#10p
+led on 0 0
+led off 0 0
+cat cat_file
+temperature c
+light
+set file cat_file
+cat $file

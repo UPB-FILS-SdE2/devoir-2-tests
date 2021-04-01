@@ -1,0 +1,11 @@
+#10p
+echo simple_text > simple_file
+cat simple_file
+cp simple_file complex_file
+rm simple_file
+rm -r simple_file
+cat complex_file
+set f new_file
+mv complex_file $f
+cat $f
+ls -l
