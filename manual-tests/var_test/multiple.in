@@ -1,0 +1,6 @@
+#4p
+set count 3
+set interval 200
+set x 2
+set y 4
+led blink $interval $count $x $y

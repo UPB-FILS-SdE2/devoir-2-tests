@@ -1,0 +1,3 @@
+#2p
+set bright 5
+led brightness set 0 1 $bright
