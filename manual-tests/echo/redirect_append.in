@@ -1,4 +1,0 @@
-#2p
-echo text > file
-echo -n add >> file
-echo ition >> file

@@ -1,3 +1,0 @@
-#0.5p
-echo text > old_file
-echo new_text > old_file

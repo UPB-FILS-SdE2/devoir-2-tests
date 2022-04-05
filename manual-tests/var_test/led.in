@@ -1,3 +1,0 @@
-#2p
-set bright 5
-led brightness set $bright 0 1 
