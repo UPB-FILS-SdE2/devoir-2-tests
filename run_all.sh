@@ -91,6 +91,11 @@ then
             then
                 for script in $folder/*.sh;
                 do
+                    # echo "cd devoir-2-tests && ./run_all.sh . $script" "$P"
+                    # continue
+
+                    POINTS_TOTAL=$(($POINTS_TOTAL+$P))
+                    
                     # title=`head -n 1 "$script" | grep '/' | cut -d "/" -f 3`
                     # echo $title
                     # if [ `echo -n "$title" | wc -c` -eq 0 ];
@@ -98,11 +103,6 @@ then
                         title=`basename $script`
                     # fi
                     # echo $title
-
-                    echo "cd devoir-2-tests && ./run_all.sh . $script" "$P"
-                    POINTS_TOTAL=$(($POINTS_TOTAL+$P))
-
-                    continue
 
                     strtitle="Verifying $title"
                     printf '%s' "$strtitle"
